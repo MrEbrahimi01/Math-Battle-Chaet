@@ -1,0 +1,20 @@
+C:\Users\Mohammad Reza\source\repos\Math Battle Cheat\Math Battle Cheat\bin\Debug\Math Battle Cheat.exe.config
+C:\Users\Mohammad Reza\source\repos\Math Battle Cheat\Math Battle Cheat\bin\Debug\Math Battle Cheat.exe
+C:\Users\Mohammad Reza\source\repos\Math Battle Cheat\Math Battle Cheat\bin\Debug\Math Battle Cheat.pdb
+C:\Users\Mohammad Reza\source\repos\Math Battle Cheat\Math Battle Cheat\obj\Debug\Math Battle Cheat.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad Reza\source\repos\Math Battle Cheat\Math Battle Cheat\obj\Debug\Math_Battle_Cheat.Form1.resources
+C:\Users\Mohammad Reza\source\repos\Math Battle Cheat\Math Battle Cheat\obj\Debug\Math_Battle_Cheat.Properties.Resources.resources
+C:\Users\Mohammad Reza\source\repos\Math Battle Cheat\Math Battle Cheat\obj\Debug\Math Battle Cheat.csproj.GenerateResource.Cache
+C:\Users\Mohammad Reza\source\repos\Math Battle Cheat\Math Battle Cheat\obj\Debug\Math Battle Cheat.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Reza\source\repos\Math Battle Cheat\Math Battle Cheat\obj\Debug\Math Battle Cheat.exe
+C:\Users\Mohammad Reza\source\repos\Math Battle Cheat\Math Battle Cheat\obj\Debug\Math Battle Cheat.pdb
+C:\Users\Mohammad Reza\Desktop\Math Battle Cheat\Math Battle Cheat\bin\Debug\Math Battle Cheat.exe.config
+C:\Users\Mohammad Reza\Desktop\Math Battle Cheat\Math Battle Cheat\bin\Debug\Math Battle Cheat.exe
+C:\Users\Mohammad Reza\Desktop\Math Battle Cheat\Math Battle Cheat\bin\Debug\Math Battle Cheat.pdb
+C:\Users\Mohammad Reza\Desktop\Math Battle Cheat\Math Battle Cheat\obj\Debug\Math Battle Cheat.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad Reza\Desktop\Math Battle Cheat\Math Battle Cheat\obj\Debug\Math_Battle_Cheat.Form1.resources
+C:\Users\Mohammad Reza\Desktop\Math Battle Cheat\Math Battle Cheat\obj\Debug\Math_Battle_Cheat.Properties.Resources.resources
+C:\Users\Mohammad Reza\Desktop\Math Battle Cheat\Math Battle Cheat\obj\Debug\Math Battle Cheat.csproj.GenerateResource.Cache
+C:\Users\Mohammad Reza\Desktop\Math Battle Cheat\Math Battle Cheat\obj\Debug\Math Battle Cheat.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Reza\Desktop\Math Battle Cheat\Math Battle Cheat\obj\Debug\Math Battle Cheat.exe
+C:\Users\Mohammad Reza\Desktop\Math Battle Cheat\Math Battle Cheat\obj\Debug\Math Battle Cheat.pdb
